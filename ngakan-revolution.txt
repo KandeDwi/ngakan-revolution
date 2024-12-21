@@ -1,0 +1,4 @@
+Ngakan Revolution
+- konsisten belajar php
+- belajar oop php
+- belajar laravel
